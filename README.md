@@ -23,8 +23,12 @@ The following NEW packages will be installed:
 #####    Additional Resources
 
 * [CommonMark Spec] - Version 1 (2014-09-06)
+* [Linguist] - Used by **GitHub** to detect blob languages, highlight code, 
+ignore binary files, suppress generated files in diffs, and generate language 
+breakdown graphs
 
 [CommonMark Spec]: http://jgm.github.io/stmd/spec.html
+[Linguist]: https://github.com/github/linguist/blob/master/lib/linguist/languages.yml
 
 ----
 
