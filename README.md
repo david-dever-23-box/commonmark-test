@@ -13,6 +13,9 @@ specification.
 $ cd ~
 $ ls -al
 $ echo $PATH
+$ sudo apt-get install -y git-core
+The following NEW packages will be installed:
+  git git-core git-man liberror-perl
 ~~~
 
 ---
