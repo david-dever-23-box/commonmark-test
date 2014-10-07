@@ -10,9 +10,9 @@ specification.
 ######  Sample Section
 
 ~~~bash
-cd ~
-ls -al
-echo $PATH
+$ cd ~
+$ ls -al
+$ echo $PATH
 ~~~
 
 ---
